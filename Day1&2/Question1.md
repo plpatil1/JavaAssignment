@@ -2,4 +2,9 @@
 
 ## Answer:
 
-#### Ten Features of Java 
+### Ten Features of Java 
+
+
+#### 1.Platform Independence: 
+--  the ability of software to run on different operating systems and hardware architectures without requiring modification
+ 
